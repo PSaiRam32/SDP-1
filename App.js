@@ -15,6 +15,7 @@ import {
 
 
 function App() {
+  
   const navbarLinks = [
     { url: "#", title: "Login/Register" },
     { url: "#", title: "About Us" },
